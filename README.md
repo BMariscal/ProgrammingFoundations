@@ -1,5 +1,5 @@
 # ProgrammingFoundations
-Udacity's Programming Foundation Projects: Python/OOP
+Udacity's Programming Foundation with Python: Object-Oriented Programming
 
 
-<h2>https://www.udacity.com/course/programming-foundations-with-python--ud036</h2>
+<h4>https://www.udacity.com/course/programming-foundations-with-python--ud036</h4>
